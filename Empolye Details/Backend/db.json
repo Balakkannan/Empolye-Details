@@ -1,0 +1,34 @@
+{
+  "Empolyee": [
+    {
+      "empName": "Balakkannan",
+      "empSalary": "50000",
+      "empCompany": "info",
+      "id": "cf0c"
+    },
+    {
+      "empName": "sri",
+      "empSalary": "2878",
+      "empCompany": "gbg",
+      "id": "1b21"
+    },
+    {
+      "empName": "santhosh",
+      "empSalary": "273",
+      "empCompany": "tcs",
+      "id": "e3b7"
+    },
+    {
+      "id": "97e6",
+      "empName": "catbox",
+      "empSalary": "34268",
+      "empCompany": "jsadw"
+    },
+    {
+      "id": "8eea",
+      "empName": "arun",
+      "empSalary": "23800",
+      "empCompany": "wibro"
+    }
+  ]
+}
